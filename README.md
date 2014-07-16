@@ -4,8 +4,6 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 - [Awesome Fortran](#awesome-fortran)
 	- [JSON Manipulation](#json-manipulation)
 	- [Testing](#testing)
-	- [HTTP](#http)
-	- [Extensions](#extensions)
 - [Resources](#resources)
 	- [Fortran Videos](#fortran-videos)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -32,7 +30,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 * [The Fortran Company](http://www.fortran.com/) - A home page of FORTRAN programming language.
 
 
-## Fortrasn Videos
+## Fortran Videos
 
 * [GNU FORTRAN Lesson 1](http://www.youtube.com/watch?v=qUy8M10uZRU) - Videos about the Fortran programming language.
 

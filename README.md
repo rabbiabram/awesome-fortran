@@ -1,7 +1,7 @@
 # Awesome Fortran
-A curated list of awesome Swift frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift).
+A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift).
 
-- [Awesome Fortran](#awesome-swift)
+- [Awesome Fortran](#awesome-fortran)
 	- [JSON Manipulation](#json-manipulation)
 	- [Testing](#testing)
 	- [HTTP](#http)
@@ -29,7 +29,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 ## Fortran Websites
 
-* [The Fortran Company](http://www.fortran.com/) - A home page of Swift programming language.
+* [The Fortran Company](http://www.fortran.com/) - A home page of FORTRAN programming language.
 
 
 ## Fortrasn Videos

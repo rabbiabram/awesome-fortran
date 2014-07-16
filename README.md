@@ -2,6 +2,7 @@
 A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg.
 
 - [Awesome Fortran](#awesome-fortran)
+	- [Math libs](#math-libs) 
 	- [JSON Manipulation](#json-manipulation)
 	- [XML Manipulation](#xml-manipulation)
 	- [Testing](#testing)
@@ -9,6 +10,14 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 	- [Fortran Videos](#fortran-videos)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+
+## Math Libs
+
+* [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
+* [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
+* [EISPACK](http://www.netlib.org/eispack/) - a software library for numerical computation of eigenvalues and eigenvectors of matrices, written in FORTRAN
+* [IMSL](http://www.roguewave.com/products/imsl-numerical-libraries/fortran-library.aspx) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
 
 ## JSON Manipulation
 

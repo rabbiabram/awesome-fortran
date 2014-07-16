@@ -14,6 +14,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 ## Math Libs
 *Libraries for calculatings and other mathematical operations.*
+
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
 * [EISPACK](http://www.netlib.org/eispack/) - a software library for numerical computation of eigenvalues and eigenvectors of matrices, written in FORTRAN
@@ -22,12 +23,15 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [PAW](http://paw.web.cern.ch/paw/) - conceived as an instrument to assist physicists in the analysis and presentation of their data
 
 ## JSON Manipulation
+*Libraries for JSON data manipulating with Fortran language.*
 
 * [FSON](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser.
 * [json-fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API.
 
 
 ## XML Manipulation
+*Libraries for XML data manipulating with Fortran language.*
+
 * [fox](https://github.com/andreww/fox) - Fortran XML library
 
 ## Testing

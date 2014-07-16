@@ -18,6 +18,8 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
 * [EISPACK](http://www.netlib.org/eispack/) - a software library for numerical computation of eigenvalues and eigenvectors of matrices, written in FORTRAN
 * [IMSL](http://www.roguewave.com/products/imsl-numerical-libraries/fortran-library.aspx) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
+* [Lis](http://www.ssisc.org/lis/index.en.html#download) - a Library of Iterative Solvers for Linear Systems
+* [PAW](http://paw.web.cern.ch/paw/) - conceived as an instrument to assist physicists in the analysis and presentation of their data
 
 ## JSON Manipulation
 

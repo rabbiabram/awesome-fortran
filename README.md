@@ -3,6 +3,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 - [Awesome Fortran](#awesome-fortran)
 	- [JSON Manipulation](#json-manipulation)
+	- [XML Manipulation](#xml-manipulation)
 	- [Testing](#testing)
 - [Resources](#resources)
 	- [Fortran Videos](#fortran-videos)
@@ -14,6 +15,9 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [FSON](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser.
 * [json-fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API.
 
+
+## XML Manipulation
+* [fox](https://github.com/andreww/fox) - Fortran XML library
 
 ## Testing
 *Libraries for testing codebases and generating test data.*

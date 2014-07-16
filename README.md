@@ -27,12 +27,12 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 # Resources
 Various resources, such as books, websites and articles, for improving your Fortran development skills and knowledge.
 
-## Swift Websites
+## Fortran Websites
 
 * [The Fortran Company](http://www.fortran.com/) - A home page of Swift programming language.
 
 
-## Swift Videos
+## Fortrasn Videos
 
 * [GNU FORTRAN Lesson 1](http://www.youtube.com/watch?v=qUy8M10uZRU) - Videos about the Fortran programming language.
 

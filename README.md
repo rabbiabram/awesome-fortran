@@ -1,4 +1,4 @@
-# Awesome Swift
+# Awesome Fortran
 A curated list of awesome Swift frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift).
 
 - [Awesome Fortran](#awesome-swift)

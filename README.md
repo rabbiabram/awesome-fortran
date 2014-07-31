@@ -15,8 +15,12 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Graphics Libraries
 *Libraries for graphing, graphics, and GUIs*
 
+* [DISLIN](http://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
+* [f90gl](http://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
 * [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
 * [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](http://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
+* [PGPLOT](http://www.astro.caltech.edu/~tjp/pgplot/) - cross-platform scientific graphing library.
+* [Xeffort](http://www.xeffort.com/) - open source library for building GUI applications in Intel Visual Fortran.
 
 ## Math Libs
 *Libraries for calculatings and other mathematical operations.*
@@ -24,6 +28,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
 * [EISPACK](http://www.netlib.org/eispack/) - a software library for numerical computation of eigenvalues and eigenvectors of matrices, written in FORTRAN
+* [FGSL](http://www.lrz.de/services/software/mathematik/gsl/fortran/index.html) - portable, object-based Fortran interface to the [GNU scientific library](http://www.lrz.de/services/software/mathematik/gsl/)
 * [IMSL](http://www.roguewave.com/products/imsl-numerical-libraries/fortran-library.aspx) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
 * [Lis](http://www.ssisc.org/lis/index.en.html#download) - a Library of Iterative Solvers for Linear Systems
 * [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
@@ -41,12 +46,14 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 *Libraries for XML data manipulating with Fortran language.*
 
 * [fox](https://github.com/andreww/fox) - Fortran XML library
+* [xml-fortran](http://sourceforge.net/projects/xml-fortran/) - an all-Fortran solution for reading and writing XML files
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
 * [FRUIT](http://sourceforge.net/projects/fortranxunit/) - FORTRAN Unit Test Framework, written in FORTRAN 95
-
+* [Ftunit](http://flibs.sourceforge.net/ftnunit.html) - Fortran unit testing framework by Arjen Markus
+* [pFUnit](http://sourceforge.net/projects/pfunit/) - Unit testing framework for Fortran with MPI extensions by developers from NASA and NGC TASC.  Uses parallel codes and object-oriented design.
 
 
 # Resources

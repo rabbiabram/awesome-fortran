@@ -6,6 +6,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 	- [Math libs](#math-libs) 
 	- [JSON Manipulation](#json-manipulation)
 	- [XML Manipulation](#xml-manipulation)
+	- [Date and time manipulation](#date-and-time-manipulation)
 	- [Testing](#testing)
 - [Resources](#resources)
 	- [Fortran Videos](#fortran-videos)
@@ -47,6 +48,11 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 * [fox](https://github.com/andreww/fox) - Fortran XML library
 * [xml-fortran](http://sourceforge.net/projects/xml-fortran/) - an all-Fortran solution for reading and writing XML files
+
+## Date and time manipulation
+*Libraries for date and time manipulation with Fortran language.*
+
+* [datetime-fortran](https://github.com/milancurcic/datetime-fortran) - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*

@@ -33,7 +33,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [Lib_VTK_IO](https://github.com/szaghi/Lib_VTK_IO) - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 
 ## Math Libs
-*Libraries for calculatings and other mathematical operations.*
+*Libraries for calculating and other mathematical operations.*
 
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
@@ -41,6 +41,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [FGSL](http://www.lrz.de/services/software/mathematik/gsl/fortran/index.html) - portable, object-based Fortran interface to the [GNU scientific library](http://www.lrz.de/services/software/mathematik/gsl/)
 * [IMSL](http://www.roguewave.com/products/imsl-numerical-libraries/fortran-library.aspx) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
 * [Lis](http://www.ssisc.org/lis/index.en.html#download) - a Library of Iterative Solvers for Linear Systems
+* [NAG Fortran Library](http://www.nag.co.uk/numeric/fl/FLdescription.asp) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
 * [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 * [PAW](http://paw.web.cern.ch/paw/) - conceived as an instrument to assist physicists in the analysis and presentation of their data

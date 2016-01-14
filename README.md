@@ -29,7 +29,6 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
 * [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](http://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
 * [PGPLOT](http://www.astro.caltech.edu/~tjp/pgplot/) - cross-platform scientific graphing library.
-* [Xeffort](http://www.xeffort.com/) - open source library for building GUI applications in Intel Visual Fortran.
 * [Lib_VTK_IO](https://github.com/szaghi/Lib_VTK_IO) - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 
 ## Math Libs
@@ -119,7 +118,6 @@ Various resources, such as books, websites and articles, for improving your Fort
 ## Fortran Videos
 
 * [GNU FORTRAN Lesson 1](https://www.youtube.com/watch?v=qUy8M10uZRU) - Videos about the Fortran programming language.
-* [Modern Fortran for Scientists and Engineers](http://jolts.stanford.edu/72/modern_fortran_for_scientists_and_engineers) - Stanford JOLTS video tutorials on modern features of Fortran.
 
 # Other Awesome Lists
 

@@ -2,6 +2,7 @@
 A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg.
 
 - [Awesome Fortran](#awesome-fortran)
+	- [Functional Libraries](#functional-libraries)
 	- [Graphics Libraries](#graphics-libraries)
 	- [Math libs](#math-libs)
 	- [JSON Manipulation](#json-manipulation)
@@ -20,6 +21,10 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 	- [Fortran Videos](#fortran-videos)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## Functional Libraries
+* [Functional Frotran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
+
 
 ## Graphics Libraries
 *Libraries for graphing, graphics, and GUIs*

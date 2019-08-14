@@ -74,6 +74,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [FRUIT](https://sourceforge.net/projects/fortranxunit/) - FORTRAN Unit Test Framework, written in FORTRAN 95
 * [Ftunit](http://flibs.sourceforge.net/ftnunit.html) - Fortran unit testing framework by Arjen Markus
 * [pFUnit](https://sourceforge.net/projects/pfunit/) - Unit testing framework for Fortran with MPI extensions by developers from NASA and NGC TASC.  Uses parallel codes and object-oriented design.
+* [Vegetables](https://gitlab.com/everythingfunctional/vegetables) - For a healthier code base, eat your vegetables
 
 ## Encoding-Decoding
 *Libraries for encoding and decoding data with Fortran language.*

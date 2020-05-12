@@ -17,6 +17,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
   - [Automatic documentation](#automatic-documentation)
   - [Computational Fluid Dynamics](#computational-fluid-dynamics)
   - [Docker](#docker)
+  - [Web](#web)
 - [Resources](#resources)
   - [Fortran Websites](#fortran-websites)
 	- [Fortran Videos](#fortran-videos)
@@ -116,6 +117,10 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Docker
 
 * [Unoficial Image](https://hub.docker.com/r/baekjoon/onlinejudge-fortran/) - docker image provided by @baekjoon
+
+## Web
+
+* [Fortran Machine](https://github.com/mapmeld/fortran-machine) - An MVC web stack written in Fortran 90
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Fortran development skills and knowledge.

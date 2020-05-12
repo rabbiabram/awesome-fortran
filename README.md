@@ -45,9 +45,9 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
 * [EISPACK](http://www.netlib.org/eispack/) - a software library for numerical computation of eigenvalues and eigenvectors of matrices, written in FORTRAN
 * [FGSL](https://www.lrz.de/services/software/mathematik/gsl/fortran/index.html) - portable, object-based Fortran interface to the [GNU scientific library](https://www.lrz.de/services/software/mathematik/gsl/)
-* [IMSL](https://www.roguewave.com/products-services/imsl-numerical-libraries/fortran-libraries) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
+* [IMSL](https://www.imsl.com/products/imsl-fortran-libraries) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
 * [Lis](https://www.ssisc.org/lis/index.en.html) - a Library of Iterative Solvers for Linear Systems
-* [NAG Fortran Library](https://www.nag.co.uk/nag-fortran-library) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
+* [NAG Fortran Library](https://www.nag.co.uk/content/nag-library-fortran) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
 * [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 

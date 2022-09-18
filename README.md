@@ -112,6 +112,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 *Libraries for CFD computations*
 
 * [OFF](https://github.com/szaghi/OFF/tree/testing) - Open source Finite volume Fluid dynamics code.
+* [MFC](https://github.com/mflowcode) - Exascale-ready compressible multiphase flow solver.
 
 ## Docker
 

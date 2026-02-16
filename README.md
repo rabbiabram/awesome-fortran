@@ -111,6 +111,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Computational Fluid Dynamics
 *Libraries for CFD computations*
 
+* [MFC](https://github.com/MFlowCode/MFC) - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 * [OFF](https://github.com/szaghi/OFF/tree/testing) - Open source Finite volume Fluid dynamics code.
 
 ## Docker

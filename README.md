@@ -98,6 +98,8 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 * [FoBiS](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
+* [nativegate](https://github.com/ravikings/nativegate) - Generates f2py/pybind11 bindings, a CMake build, an installable Python package, a FastAPI service, tests, Docker/Kubernetes artifacts, and numerical golden-record regression checks from legacy Fortran/C++ code, without rewriting it.
+
 ## Preprocessor
 *Libraries for conditional-compilation, macros for code simplification, and inclusion of additional source files, templating systems.*
 
